@@ -19,5 +19,8 @@ return
 Send, {Del}
 return
 
+^Space::
+Send, #{Space}
+return
 
 
